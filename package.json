@@ -1,7 +1,7 @@
 {
   "name": "express-typescript-starter-kit",
   "version": "1.0.0",
-  "description": "Express startker kit with TypeScript, Prettier",
+  "description": "Express starter kit with TypeScript, Prettier",
   "main": "index.js",
   "author": "Henry Tran",
   "license": "MIT",
